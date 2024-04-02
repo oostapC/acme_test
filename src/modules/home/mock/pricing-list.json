@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "amount": "$4",
+      "cpu": "1 vCPU",
+      "ram": "1 GB",
+      "storage": "60 GB"
+    },
+    {
+      "id": 2,
+      "amount": "$77",
+      "cpu": "2 vCPU",
+      "ram": "2 GB",
+      "storage": "60 GB"
+    },
+    {
+      "id": 3,
+      "amount": "$17",
+      "cpu": "4 vCPU",
+      "ram": "4 GB",
+      "storage": "320 GB"
+    },
+    {
+      "id": 4,
+      "amount": "$47",
+      "cpu": "8 vCPU",
+      "ram": "8 GB",
+      "storage": "500 GB"
+    }
+  ]
+}

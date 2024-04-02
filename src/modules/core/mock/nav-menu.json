@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Pricing",
+      "href": "",
+      "isSubMenu": true
+    },
+    {
+      "id": 2,
+      "title": "Compatibility",
+      "href": "/"
+    },
+    {
+      "id": 3,
+      "title": "Features",
+      "href": "/"
+    },
+    {
+      "id": 4,
+      "title": "FAQ",
+      "href": "/"
+    },
+    {
+      "id": 5,
+      "title": "Support",
+      "href": "/"
+    }
+  ]
+}
